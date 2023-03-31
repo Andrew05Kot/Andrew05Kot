@@ -3,12 +3,12 @@
 
 ### Here are some of the skills and technologies that I am proficient in:
 
-- **Programming languages:** `Java (SE/EE)` `TypeScipt` `JavaScript` `Python`
+- **Programming languages:** `Java (SE/EE)` `TypeScript` `JavaScript` `Python`
 - **Frameworks:**: `Spring (Boot, MVC, Data, Security)` `Angular`
 - **Web development:** `HTML` `CSS` `SCSS` `JavaScript`
 - **Database management:**  `PostgreSQL` `MySQL` `MongoDB`
 - **Cloud technologies:** `Amazon Web Services (AWS)`, `Google Cloud Platform (GCP)`
-- **And other:** `Linux`, `Hipernate` `JUnit` `Mockito` `Git` `Microservices` `Design patterns` `Maven` `Gradle` `Docker` `Docker Compose`  `Vue.js` `Vaadin` `Tensorflow` `Agile` `Scrum` `Kanban`
+- **And other:** `Linux`, `Hibernate` `JUnit` `Mockito` `Git` `Microservices` `Design patterns` `Maven` `Gradle` `Docker` `Docker Compose`  `Vue.js` `Vaadin` `Tensorflow` `Agile` `Scrum` `Kanban`
 
 ### 👀 About me:
 - 👨‍💻  In general, I am a Backend engineer. Worked on most projects as a full-stack developer.
