@@ -28,7 +28,7 @@ While working, I like to dive deeply into solving a complex problem.
 - 📫 You can reach me on likedin: www.linkedin.com/in/andrew-kotiuha-068b54197
 
 
-Feel free to take a look at my [GitHub repositories]([https://github.com/username](https://github.com/Andrew05Kot?tab=repositories)) to see some of my pet-projects and code.
+Feel free to take a look at my [GitHub repositories](https://github.com/Andrew05Kot?tab=repositories) to see some of my pet-projects and code.
 
 <!---
 Andrey5kot/Andrey5kot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
