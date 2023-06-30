@@ -4,7 +4,7 @@
 ### Here are some of the skills and technologies that I am proficient in:
 
 - **Programming languages:** `Java (SE/EE)` `TypeScript` `JavaScript` `Python`
-- **Frameworks:**: `Spring (Boot, MVC, Data, Security)` `Angular`
+- **Frameworks:**: `Spring` `Angular`
 - **Web development:** `HTML` `CSS` `SCSS` `JavaScript`
 - **Database management:**  `PostgreSQL` `MySQL` `MongoDB`
 - **Cloud technologies:** `Amazon Web Services (AWS)`, `Google Cloud Platform (GCP)`
