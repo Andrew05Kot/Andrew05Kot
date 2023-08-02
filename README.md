@@ -38,9 +38,4 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin Badge](https://img.shields.io/badge/-andrew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-kotiuha-068b54197/)](https://www.linkedin.com/in/andrew-kotiuha-068b54197/)
 [![Gmail Badge](https://img.shields.io/badge/-kotygaandrey05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kotygaandrey05@gmail.com)](mailto:kotygaandrey05@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew05Kot&show_icons=true&theme=gruvbox)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Andrey5kot.Andrey5kot)
-
-
 
