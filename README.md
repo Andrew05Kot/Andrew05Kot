@@ -1,29 +1,26 @@
 - 👋 Hi, I’m Andrew Kot___
-- 👨‍💻 I'm Software Engineer
+- 👨‍💻 I'm a Frontend Engineer specializing in Angular
 
 ### Here are some of the skills and technologies that I am proficient in:
 
-- **Programming languages:** `Java (SE/EE)` `TypeScript` `JavaScript` `Python`
-- **Frameworks:** `Spring` `Angular`
-- **Web development:** `HTML` `CSS` `SCSS` `JavaScript`
-- **Database management:**  `PostgreSQL` `MySQL` `MongoDB`
+- **Frontend Development:** `Angular` `TypeScript` `JavaScript` `HTML` `CSS` `SCSS`
+- **Another old skills:** `Java (SE/EE)`, `Spring` `Python`
+- **Database management:** `PostgreSQL` `MySQL` `MongoDB`
 - **Cloud technologies:** `Amazon Web Services (AWS)`, `Google Cloud Platform (GCP)`
-- **And other:** `Linux`, `Hibernate` `JUnit` `Mockito` `Git` `Microservices` `Design patterns` `Maven` `Gradle` `Docker` `Docker Compose`  `Vue.js` `Vaadin` `Tensorflow` `Agile` `Scrum` `Kanban`
+- **And other:**  `Vue.js`, `React`, `Linux` `Hibernate` `JUnit` `Mockito` `Git` `Microservices` `Design patterns` `Maven` `Gradle` `Docker` `Docker Compose` `Vaadin` `Tensorflow` `Agile` `Scrum` `Kanban`
 
 ### 👀 About me:
-- 👨‍💻  In general, I am a Backend engineer. Worked on most projects as a full-stack developer.
+- 👨‍💻 As a Frontend Engineer, I have a strong passion for creating user-friendly and interactive web applications using Angular. I was a full-stack engineer for the first three years of my career, so don't be surprised why my skills include Java and Spring
+  
+- 🧠 I'm smart. I have talent for programming. I have strong research and analytical skills through proficient information gathering and thinking abilities. During several years of commercial development, I understood the business processes of the companies for which I provided services well. I consider resourcefulness to be my best personal asset in life
 
-- 🧠 I'm smart. I have talent for programming. I have strong research and analytical skills through proficient information gathering and thinking abilities. During several years of commercial development, I understood the business processes of the companies for which I provided services well.
+- 🖥️ I excel in writing clean and maintainable frontend code while adhering to best practices. I'm also well-versed in applying Design Patterns to enhance the quality of my frontend work.
 
-- 🖥️ As my main strengths, I consider the ability to write clean code (not ideal - ideal code does not exist). I also have knowledge of Design Patterns and know how to use them.
-
-- 👷 I like to work on big projects with a lot of code. I like to refactor legacy code, and I also like to learn from the best engineers.
-While working, I like to dive deeply into solving a complex problem.
+- 👷 I enjoy working on large frontend projects and have a knack for refactoring and improving existing codebases.
 
 - 👾 One of my main hobbies is programming. Therefore, in my free time, I learn something new. Eg. recently, I have been studying Artificial Intelligence, Machine Learning, Deep Learning and Data Analis.
 
-- 🏋️‍♂️ Hobbies: read books, gym, calisthenics, climb mountains, play the electric guitar
-
+- 🏋️‍♂️ Outside of coding, I indulge in hobbies like reading books, going to the gym, practicing calisthenics, climbing mountains, and playing the electric guitar.
 
 - 📫 You can reach me on likedin: www.linkedin.com/in/andrew-kotiuha-068b54197
 
